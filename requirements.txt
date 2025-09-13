@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+databases[sqlite]
+sqlalchemy
+pydantic
+httpx
+streamlit
